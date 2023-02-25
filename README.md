@@ -20,6 +20,7 @@
   <main>
     <section id="about">
       <h2>About Me</h2>
+      <img src="https://via.placeholder.com/300x200" alt="My Profile Picture">
       <p>Insert your bio here.</p>
     </section>
     <section id="skills">
@@ -31,27 +32,33 @@
         <li>Performance testing</li>
         <li>Security testing</li>
       </ul>
+      <img src="https://via.placeholder.com/300x200" alt="QA Skills Meme">
     </section>
     <section id="projects">
       <h2>My Projects</h2>
       <ul>
         <li>
           <h3>Project 1</h3>
+          <img src="https://via.placeholder.com/300x200" alt="Project 1 Screenshot">
           <p>Description of project 1</p>
         </li>
         <li>
           <h3>Project 2</h3>
+          <img src="https://via.placeholder.com/300x200" alt="Project 2 Screenshot">
           <p>Description of project 2</p>
         </li>
         <li>
           <h3>Project 3</h3>
+          <img src="https://via.placeholder.com/300x200" alt="Project 3 Screenshot">
           <p>Description of project 3</p>
         </li>
       </ul>
+      <img src="https://via.placeholder.com/300x200" alt="QA Projects Meme">
     </section>
     <section id="contact">
       <h2>Contact Me</h2>
       <p>Insert your contact information here.</p>
+      <img src="https://via.placeholder.com/300x200" alt="Contact Me Meme">
     </section>
   </main>
   <footer>
@@ -59,3 +66,4 @@
   </footer>
 </body>
 </html>
+
